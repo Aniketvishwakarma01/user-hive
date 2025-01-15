@@ -19,16 +19,6 @@
       "gender": "male",
       "dob": "2025-01-01",
       "agreement": true
-    },
-    {
-      "id": "e8e3",
-      "username": "user2",
-      "email": "user2@gmail.com",
-      "password": "user2",
-      "phoneno": "8997676765",
-      "gender": "male",
-      "dob": "2024-09-11",
-      "agreement": true
     }
   ]
 }
